@@ -116,7 +116,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "officialDemoLoc/Items/SerialLocation/SerialLocationViewController.m"
-            timestampString = "528105460.284181"
+            timestampString = "543304550.305428"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "240"
@@ -132,7 +132,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "officialDemoLoc/Items/SerialLocation/SerialLocationViewController.m"
-            timestampString = "528105460.284748"
+            timestampString = "543304550.305734"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "84"
@@ -148,7 +148,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "officialDemoLoc/Items/SerialLocation/SerialLocationViewController.m"
-            timestampString = "528105460.285188"
+            timestampString = "543304550.305987"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "88"
@@ -164,23 +164,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "officialDemoLoc/Items/SerialLocation/SerialLocationViewController.m"
-            timestampString = "528105460.285601"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "258"
-            endingLineNumber = "258"
-            landmarkName = "-alertView:didDismissWithButtonIndex:"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            shouldBeEnabled = "No"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "officialDemoLoc/Items/SerialLocation/SerialLocationViewController.m"
-            timestampString = "528105460.286015"
+            timestampString = "543304550.306226"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "254"
@@ -196,7 +180,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "officialDemoLoc/Items/SerialLocation/SerialLocationViewController.m"
-            timestampString = "528105460.286504"
+            timestampString = "543304550.306495"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "270"
@@ -212,7 +196,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "officialDemoLoc/Items/SerialLocation/SerialLocationViewController.m"
-            timestampString = "528105460.286929"
+            timestampString = "543304550.306742"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "286"
@@ -228,44 +212,12 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "officialDemoLoc/Items/SerialLocation/SerialLocationViewController.m"
-            timestampString = "528105460.28733"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "427"
-            endingLineNumber = "427"
-            landmarkName = "-viewDidAppear:"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            shouldBeEnabled = "No"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "officialDemoLoc/Items/SerialLocation/SerialLocationViewController.m"
-            timestampString = "528105460.287816"
+            timestampString = "543304550.306977"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "400"
             endingLineNumber = "400"
             landmarkName = "-viewWillAppear:"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            shouldBeEnabled = "No"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "officialDemoLoc/Items/SerialLocation/SerialLocationViewController.m"
-            timestampString = "528105460.288295"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "415"
-            endingLineNumber = "415"
-            landmarkName = "-viewWillDisappear:"
             landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>

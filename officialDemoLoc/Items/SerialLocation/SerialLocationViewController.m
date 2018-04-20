@@ -31,7 +31,7 @@
 @property (nonatomic, strong) UIAlertController *alertCtl;
 @property (nonatomic) NSInteger currentBusNum;
 @property (strong, nonatomic)  MAMapView *myLocation;
-
+@property (nonatomic) CGPoint variance;
 @end
 
 @implementation SerialLocationViewController
@@ -256,8 +256,8 @@
                     tempoint.longtitude += samplepoint.longtitude;
                     tempoint.latitude += samplepoint.latitude;
                 }
-                self.centerLocation.longtitude = tempoint.longtitude/3;
-                self.centerLocation.latitude = tempoint.latitude/3;
+                self.centerLocation.longtitude = tempoint.longtitude/3.0 - self.variance.y;
+                self.centerLocation.latitude = tempoint.latitude/3.0 - self.variance.x;
                 [[[SharedInstance sharedInstance] tripleSet] removeAllObjects];
                 if ([self.alert.title isEqualToString:@"+"]) {
                     number = number + 1;
@@ -379,7 +379,7 @@
     
 //    self.centerLocation = nil;
     [self.view setBackgroundColor:[UIColor whiteColor]];
-    
+    self.variance = CGPointMake(-0.0016077999999990764, 0.0043677999999995193);
     [self initToolBar];
     
     [self initMapView];
